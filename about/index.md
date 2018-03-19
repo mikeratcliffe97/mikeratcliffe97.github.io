@@ -9,7 +9,7 @@ comments: false
 <center>
 <figure>
         <img src="../assets/img/profilepic.jpg" class="img-circle animated rotateIn">
-		<figcaption>Da Boss!</figcaption>
+		<figcaption>Ya boy!</figcaption>
 </figure>
 
 </center>
