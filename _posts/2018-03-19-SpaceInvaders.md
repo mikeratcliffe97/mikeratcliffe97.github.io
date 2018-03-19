@@ -15,9 +15,9 @@ Use of Enum Classes in switch cases. <br />
 Use of Sine and Quadratic Formulaes within games
 
 Here are some screenshots
-{% capture images %}
+{%capture images%}
 	../assets/img/spaceinvaders_1.png
 	../assets/img/spaceinvaders_2.png
 	../assets/img/spaceinvaders_3.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of my Game" cols=3 %}
+{%endcapture%}
+{%include gallery images=images caption="Screenshots of my Game" cols=3%}
