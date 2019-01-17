@@ -9,15 +9,15 @@ comments: false
 <center>
 <figure>
         <img src="../assets/img/profilepic.jpg" class="img-circle animated rotateIn">
-		<figcaption>Ya boi!</figcaption>
+	
 </figure>
 
 </center>
 
 ## About Me
-Games Tech Student at UWE
-From London/Worcester
-Enjoy Cider and Indie Rock.
+Games Tech Student at UWE\n
+From London/Worcester\n
+Enjoy Cider and Indie Rock\n.
 Filthy Junkrat main
       
 [Contact Me](https://github.com/TaylanTatli/Moon){: .btn}
