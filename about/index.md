@@ -15,9 +15,9 @@ comments: false
 </center>
 
 ## About Me
-Games Tech Student at UWE.
+<p>Games Tech Student at UWE.
 From London/Worcester.
 Enjoy Cider and Indie Rock.
-Filthy Junkrat main.
+Filthy Junkrat main.</p>
       
 [Contact Me](https://github.com/TaylanTatli/Moon){: .btn}
