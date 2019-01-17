@@ -5,7 +5,7 @@ description:        "Will update with work completed over my time at UWE."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profilepic.jpg'
-background:         'assets/img/doom_backdrop.jpg'
+background:         'assets/img/backgroundpng.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://mikeratcliffe97.github.io
