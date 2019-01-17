@@ -17,9 +17,8 @@ Use of Sine and Quadratic Formulaes within games
 Here are some screenshots
 {% highlight html %}
 
-	<img src="assets/imgs/spaceinvaders_1.png">
-	<img src="assets/imgs/spaceinvaders_2.png">
-	<img src="assets/imgs/spaceinvaders_3.png">
-	<imgcaption>Screenshots of my game.</figcaption>
+	<img src="..assets/imgs/spaceinvaders_1.png">
+	<img src="..assets/imgs/spaceinvaders_2.png">
+	<img src="..assets/imgs/spaceinvaders_3.png">
 
 {% endhighlight %}
