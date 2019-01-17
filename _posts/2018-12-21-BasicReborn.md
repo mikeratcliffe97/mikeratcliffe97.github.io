@@ -8,5 +8,4 @@ published: true
 tags: [retro, c++, text, games, adventure, ASGE]
 ---
 
-Recently we were asked to convert a 1980's text adventure **[game] (http://www.colorcomputerarchive.com/coco/Documents/Books/Write%20Your%20Own%20Adventure%20Programs%20(1983)(Usborne).pdf)** into C++ using the
-ASGE Engine.
+Recently we were asked to convert a 1980's text adventure **[game](http://www.colorcomputerarchive.com/coco/Documents/Books/Write%20Your%20Own%20Adventure%20Programs%20(1983)(Usborne).pdf)** into C++ using the ASGE Engine.
