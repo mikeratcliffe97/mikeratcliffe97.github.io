@@ -16,10 +16,10 @@ Use of Sine and Quadratic Formulaes within games
 
 Here are some screenshots
 {% highlight html %}
-<figure class="third">
+
 	<img src="assets/imgs/spaceinvaders_1.png">
 	<img src="assets/imgs/spaceinvaders_2.png">
 	<img src="assets/imgs/spaceinvaders_3.png">
-	<figcaption>Screenshots of my game.</figcaption>
-</figure>
+	<imgcaption>Screenshots of my game.</figcaption>
+
 {% endhighlight %}
