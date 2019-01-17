@@ -10,7 +10,6 @@ comments: false
 <figure>
         <img src="../assets/img/profilepic.jpg" class="img-circle animated rotateIn">
 		<figcaption>Ya boi!</figcaption>
-		<figcaption>Ya boi!</figcaption>
 </figure>
 
 </center>
