@@ -18,9 +18,7 @@ Here are some screenshots of my menu, my quadratic game mode which uses a quadra
 
 <figure>
 	<img src="../assets/img/spaceinvaders_1.PNG">
-  
     <img src="../assets/img/spaceinvaders_2.PNG">
-    
 	<img src="../assets/img/spaceinvaders_3.PNG">
 </figure>
 
