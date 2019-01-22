@@ -1,8 +1,9 @@
 # Site
 title:              "Michael Ratcliffe Portfolio"
-bio:                'My Portfolio of work for UWE Games Technology'
+bio:                'My Portfolio of work for UWE Games Technology; 
+                      Contact me using the buttons below'
 description:        "Will update with work completed over my time at UWE."
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/profilepic.jpg'
 background:         'assets/img/backgroundpng.png'
