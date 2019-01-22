@@ -16,9 +16,9 @@ Use of Sine and Quadratic Formulaes within games
 
 Here are some screenshots
 
-
-	<img src="../assets/img/spaceinvaders1.PNG">
-	<img src="../assets/img/spaceinvaders_2.PNG" class="img-circle animated rotateIn">
+<figure>
+	<img src="../assets/img/spaceinvaders_1.PNG">
+    <img src="../assets/img/spaceinvaders_2.PNG" class="img-circle animated rotateIn">
 	<img src="../assets/img/spaceinvaders_3.PNG" class="img-circle animated rotateIn">
-
+</figure>
 
