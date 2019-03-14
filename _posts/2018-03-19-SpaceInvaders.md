@@ -13,7 +13,7 @@ I learnt a lot developing this including:<br />
 How to utitlise Git features properly <br />
 Use of Enum Classes in switch cases. <br />
 Use of Sine and Quadratic Formulaes within games
-<--!more-->
+<!--more-->
 
 Here are some screenshots of my menu, my quadratic game mode which uses a quadratic formula and my standard gamemode.
 
