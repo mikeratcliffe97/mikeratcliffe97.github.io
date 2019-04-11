@@ -12,7 +12,7 @@ For my first second year assignment, we were asked to convert this **[game](http
 
 To fully modernise my game, I decided to base my game on a spaceship instead of a haunted house. I wanted to keep a horror element, so loosely based the game on the horror game, Dead Space.
 <figure>
-    <img src="../assets/img/deadspace.JPG">
+    <img src="../assets/img/deadspace.jpg">
  </figure>
     
   ### Key Features
@@ -21,7 +21,7 @@ To fully modernise my game, I decided to base my game on a spaceship instead of 
     - the route that the player uses
     - the items that the player can collect
   <figure> 
-    <img src="../assets/img/BR1.JPG">
+    <img src="../assets/img/BR1.jpg">
    </figure>
    
    <figure>
