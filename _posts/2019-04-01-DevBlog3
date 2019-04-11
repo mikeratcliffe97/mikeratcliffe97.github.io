@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog 3
-date: 2019-01-22
+date: 2019-04-01
 description: 3rd Developer Blog
 category: development
 published: true
@@ -9,4 +9,6 @@ tags: [dev, blog]
 ---
 
 <b>April</b>
+
+Since my last update, I've discovered networking in video games is <b> difficult </b>
 
