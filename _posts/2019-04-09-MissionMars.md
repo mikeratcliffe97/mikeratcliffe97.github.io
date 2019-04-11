@@ -9,6 +9,10 @@ tags: [dev, blog]
 ---
 
 # Mission Mars
+### A turn-based scifi board game where players must:
+    -collect resources
+    -build a spaceship
+    -race each other to navigate the dangers of space and colonise mars
 
 ## Under Construction
 
