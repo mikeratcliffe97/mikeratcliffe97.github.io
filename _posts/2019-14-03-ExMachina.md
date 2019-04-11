@@ -12,5 +12,21 @@ tags: [dev, blog]
 
 ## Based on the oscar award winning film, Ex Machina - I bring you... <br>
 <figure>
-<img src="../assets/img/ExMach4.png">
+    <img src="../assets/img/ExMach4.png">
 </figure>
+
+Playing as iterations of the Ai, Ava - you must escape Nathan's testing facility.
+<figure>
+    <img src="../assets/img/ExMachina1.PNG">
+</figure>
+
+### Key Features
+    - high scores based on level time
+    - increasing level difficulty
+    - sprite animations
+    - powerups
+    - a huge animated pixel rendition of Oscar Isaac
+ <figure>
+    <img src="../assets/img/ExMachina2.PNG">
+    </figure>
+  
