@@ -10,7 +10,7 @@ tags: [dev, blog]
 
 # Ex Machina Platformer
 
-## Based on the oscar award winning film, Ex Machina - I bring you <br>
+## Based on the oscar award winning film, Ex Machina - I bring you... <br>
 <figure>
 <img src="../assets/img/ExMach4.png">
 </figure>
