@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basic Reborn Post Mortem
+title: Game 1 Post Mortem
 date: 2018-12-21
 description: C++ Port of a BASIC text adventure game
 category: Intermediate
@@ -8,6 +8,9 @@ published: true
 tags: [retro, c++, text, games, adventure, ASGE]
 ---
 # Basic Reborn
+<figure>
+    <img src="../assets/img/BR3.jpg">
+    </figure
 For my first second year assignment, we were asked to convert this **[game](http://www.colorcomputerarchive.com/coco/Documents/Books/Write%20Your%20Own%20Adventure%20Programs%20(1983)(Usborne).pdf)** into C++ using the ASGE Engine.
 
 To fully modernise my game, I decided to base my game on a spaceship instead of a haunted house. I wanted to keep a horror element, so loosely based the game on the horror game, Dead Space.
@@ -28,5 +31,6 @@ To fully modernise my game, I decided to base my game on a spaceship instead of 
     <img src="../assets/img/BR2.JPG">
    </figure>
     
-    
+   As I was mainly focused on the technical aspects, I did not have much time to focus on design aspects for the game.
+   To improve in future I would change background sprites and font, and possibly music
     
