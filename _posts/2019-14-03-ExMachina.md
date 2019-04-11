@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Game 2 Post Mortem
+title: Ex Machina
 date: 2019-03-14
-description:  Ex Machina post-mortem
-category: development
+description:  My 2nd coursework piece,  Ex Machina Platformer
+category: game
 published: true
 tags: [dev, blog]
 ---
