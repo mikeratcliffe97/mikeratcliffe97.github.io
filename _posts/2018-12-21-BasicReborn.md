@@ -15,7 +15,7 @@ To fully modernise my game, I decided to base my game on a spaceship instead of 
     <img src="../assets/img/deadspace.jpg">
  </figure>
     
- ## Key Features
+## Key Features
  - This was my first game that used text validation
  - The game relied heavily on file reading for:
     - the route that the player uses
