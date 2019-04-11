@@ -32,5 +32,7 @@ To fully modernise my game, I decided to base my game on a spaceship instead of 
    </figure>
     
    As I was mainly focused on the technical aspects, I did not have much time to focus on design aspects for the game.
-   To improve in future I would change background sprites and font, and possibly music
+   To improve in future I would change background sprites and font, and possibly music. <br>
+   I was happy with my use of classes and basic file handling, I set up a class for the items which was inherited by the class for the 
+   rooms. This made my code run efficiently and easy to read and debug.
     
