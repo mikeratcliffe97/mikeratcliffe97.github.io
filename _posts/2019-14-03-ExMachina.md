@@ -30,3 +30,4 @@ Playing as iterations of the Ai, Ava - you must escape Nathan's testing facility
     <img src="../assets/img/ExMachina2.PNG">
     </figure>
   
+Message me using my contact buttons on my homepage for more details or to play.
