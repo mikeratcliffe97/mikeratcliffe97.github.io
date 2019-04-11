@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Basic Reborn
 date: 2018-12-21
 description: C++ Port of a BASIC text adventure game
