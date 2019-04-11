@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ex Machina
+title: Mission Mars
 date: 2019-03-14
 description:  My 3rd piece of coursework, Mission Mars.
 category: game
