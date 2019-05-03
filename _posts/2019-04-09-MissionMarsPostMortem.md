@@ -13,8 +13,8 @@ tags: [dev, blog]
 The last assignment of the year was to digitise a board game I had made as part of a group earlier in the year.
 We had to turn this 4 player board game into a turn-based game over a network.
 <figure>
-    <img src="MainMenu.png">
-    <img src="shipcosts.png">
+    <img src="../assets/img/MainMenu.png">
+    <img src="../assets/img/shipcosts.png">
    </figure>
 
 
