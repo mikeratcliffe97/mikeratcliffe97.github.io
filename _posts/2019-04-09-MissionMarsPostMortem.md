@@ -17,3 +17,6 @@ We had to turn this 4 player board game into a turn-based game over a network.
 Part of the implementation was building a server to handle 4 different players connecting, assigning them usernames and allowing them to send text to each other (like a chat room) while holding all the relevant game data. 
 We had some issues with different clients falling out of sync, so one player would be further ahead than others. 
 
+We utilised the SoLoud audio engine to include sound effects and music to create a more immersive experience for the player.
+
+
