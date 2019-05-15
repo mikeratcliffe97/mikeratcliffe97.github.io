@@ -5,11 +5,11 @@ date: 2019-01-22
 description: First development blog for Mario Kart
 category: development
 published: true
-tags: [dev, blog, DX]
+tags: [dev, blog, DX, GEP]
 ---
 
 This is the first entry in my dev diary for Mario Kart.
-As a group, we've been assigned the task of making mario kart using the Scarle Engine, a 3D game engine built on DirectX.
+As a group, we've been assigned the task of making game engine systems based on DirectX to make a 3D racer game, like Mario Kart.
 
 Initially, we created an 'alpha' version using Unity and identified all the features our game would need, including:
 
