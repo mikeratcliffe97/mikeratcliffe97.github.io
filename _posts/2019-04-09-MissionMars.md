@@ -2,7 +2,7 @@
 layout: post
 title: Mission Mars
 date: 2019-03-14
-description:  My 3rd piece of coursework, Mission Mars.
+excerpt: "A sci fi boardgame - build a ship and race to Mars!"
 category: game
 project: true
 published: true
