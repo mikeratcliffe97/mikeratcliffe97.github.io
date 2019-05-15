@@ -2,7 +2,7 @@
 layout: post
 title: Basic Reborn
 date: 2018-12-21
-description: The best space based text adventure game!
+excerpt: The best space based text adventure game!
 category: game
 project: true
 published: true
