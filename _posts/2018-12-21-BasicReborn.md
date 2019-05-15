@@ -3,7 +3,8 @@ layout: post
 title: Basic Reborn
 date: 2018-12-21
 description: The best space based text adventure game!
-category: Intermediate
+category: game
+project: true
 published: true
 tags: [retro, c++, text, games, adventure, ASGE]
 ---
