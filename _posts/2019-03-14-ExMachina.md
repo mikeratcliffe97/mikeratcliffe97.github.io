@@ -6,7 +6,7 @@ excerpt: "Playing as iterations of a human-like AI, you must escape the lab in w
 category: game
 project: true
 published: true
-tags: [dev, blog, ASGE]
+tags: [dev, blog, ASGE, games]
 ---
 
 # Ex Machina Platformer
