@@ -2,7 +2,7 @@
 layout: post
 title: Ex Machina
 date: 2019-03-14
-description:  My 2nd coursework piece,  Ex Machina Platformer
+excerpt: "Playing as iterations of a human-like AI, you must escape the lab in which you were created"
 category: game
 project: true
 published: true
