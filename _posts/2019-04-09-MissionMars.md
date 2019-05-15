@@ -6,7 +6,7 @@ excerpt: "A sci fi boardgame - build a ship and race to Mars!"
 category: game
 project: true
 published: true
-tags: [dev, blog, ASGE]
+tags: [dev, blog, ASGE, games]
 ---
 
 # Mission Mars
