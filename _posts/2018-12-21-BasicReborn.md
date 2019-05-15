@@ -15,7 +15,7 @@ tags: [retro, c++, text, games, adventure, ASGE]
     </figure>
     
 ## Do you like spaceships? <br> How about zombies?<br> Flamethrowers??<br> All of these in a text adventure game???
-    
+------------------------------------------------------------------    
 You'll <b> love </b> this game!   
  - Navigate your way around an abandoned(?) spaceship
  - Recover the secret file onboard and escape
