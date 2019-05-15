@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GEP Dev 1
-date: 2019-01-22
+date: 2019-02-28
 description: First development blog for Mario Kart
 category: development
 published: true
