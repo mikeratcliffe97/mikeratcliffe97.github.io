@@ -4,8 +4,9 @@ title: Ex Machina
 date: 2019-03-14
 description:  My 2nd coursework piece,  Ex Machina Platformer
 category: game
+project: true
 published: true
-tags: [dev, blog]
+tags: [dev, blog, ASGE]
 ---
 
 # Ex Machina Platformer
