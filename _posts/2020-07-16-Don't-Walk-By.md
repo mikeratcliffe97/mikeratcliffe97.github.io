@@ -20,13 +20,13 @@ The game features a level editor in-game. This was useful during development as 
 
 ## My Role
 
-The team I was assigned to were responsible for two of the core game systems: tool programming for the tile-based level editor which allowed level designers and players to make custom levels, as well as the AI pathfinding for the NPCs, and quality assurance and testing. <br>
+The team I was assigned to were responsible for two of the core game systems: tool programming for the tile-based level editor which allowed level designers and players to make custom levels, and the AI pathfinding for the NPCs. Additionally, we were assigned quality assurance and testing. <br>
 I worked in the QA and testing role but by the end of the project cycle, had taken on some production responsibilities. 
-For the last few months, the game was worked on remotely. Each week, as a cohort we would meet and have a briefing. Following the briefing, I would speak to each team, check progress, assign bugs and feedback about any changes to them as well as updating them on the progress of the other teams. <br>
+<br>For the last few months, the game was worked on remotely. Each week, as a cohort we would meet and have a briefing. Following the briefing, I would speak to each team, check progress, assign bugs and feedback about any changes to them as well as updating them on the progress of the other teams. <br>
 My team were responsible for two core systems which much of the game was built around, so it was important that the other teams understood any changes and were able to give feedback. <br>
 Due to the large number of teams and the difficulties of working remotely during lockdown, it was very helpful to check in with each team individually on a weekly basis. <br>
 I also conducted testing twice a week on new features following a strict testing procedure - the results of these tests were brought up in the weekly meeting.
 
 ## Evaluation
 
-I enjoyed taking a step-back from programming for this module and focusing on more people-based roles. I think it was helpful to have an intermediary between all the teams as well as someone who could support other team members and help them understand new changes. 
+I enjoyed taking a step-back from programming for this module and focusing on more people-based skills, like communication. I think it was helpful to have an intermediary between all the teams as well as someone who could support other team members and help them understand new changes. <br>I also think on a personal level, it was nice to have a set structured meeting time for our entire year group each week during lockdown. As well as this, I gained valuable experience in live gameplay testing and analytics.
