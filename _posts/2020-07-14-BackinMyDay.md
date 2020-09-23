@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Back in My Day
-date: 2020-03-03
+date: 2020-07-14
 excerpt: "Production and Design for a client VR experience"
 category: Project   
 project: true

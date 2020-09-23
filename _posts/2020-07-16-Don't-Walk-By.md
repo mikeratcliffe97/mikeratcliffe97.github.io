@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Walk By
-date: 2020-03-03
+date: 2020-07-16
 excerpt: "Production and QA for a cohort game made by over 30 students"
 category: Project   
 project: true
