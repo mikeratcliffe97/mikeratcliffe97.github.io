@@ -19,6 +19,8 @@ Bristol is renowned for its contributions to musical genres such as drum ‘n’
 In the experience, the user can visit three famous Bristol venues: <a href="https://lakota.co.uk/" target="_blank">Lakota</a>, the <a href="https://www.trinitybristol.org.uk/" target="_blank">Trinity Centre</a> and <a href="https://thefleece.co.uk/" target="_blank">The Fleece</a>. 
 Each venue features a song from a Bristol based artist that is related to the venue. Lakota features the song ‘Dancehall Tornado’ by the house DJ duo, Way Out West. The Trinity Centre features ‘Brown Paper Bag’ by Roni Size and the Fleece features ‘Danny Nedelko’ by the band Idles. The venues are accessed through a poster board style interface, where the user can select which venue they want to visit using the VR controller. Venues feature other NPC club goers (or ravers) and are designed to feel ethereal yet immersive - as if the user is remembering visiting the venue from <i> the good old days. </i> 
 
+The experience was built for the Oculus Go using Unity by a team of five students over about six months. We used a lot of free assets from the unity store but modelled the venues from reference images and also modelled some generic venue props, such as pint glasses and speakers.
+
 # My Role 
 One of my main contributions was to the project was the research and creative decisions, which made sure the experience was accurate and authentic; as well as appealing to all audiences.
 
@@ -36,7 +38,9 @@ In a team of five on a project of this scale, it is important to make sure that 
 
 # Evaluation
 
-I am pleased with the level of detail of the research that went into this project and feel it is authentic and accurate. Progress of the project was slow initially over Christmas, which help up development later on as parts of the team were held back as they waited for photos and interviews, but some of this was unpreventable as we were waiting on the availability of other people. After lockdown began, we had to narrow the scope of the project drastically (hard to present a VR experience to a client in person during these unprecedented times...) but the experience is finished to a good, polished standard despite the circumstances - and it definitely met our client brief.
+I am pleased with the level of detail of the research that went into this project and feel it is authentic and accurate. Progress of the project was slow initially over Christmas, which held up development later on as parts of the team were held back as they waited for photos and interviews; however much of this was unpreventable as we were waiting on the availability of other people. After lockdown began, we had to narrow the scope of the project drastically (hard to present a VR experience to a client in person during these unprecedented times...) but the experience is finished to a good, polished standard despite the circumstances - and it definitely met our client brief.<br> As this was one of the longest projects I've taken part in throughout uni, I learned a lot about the importance of project management and maintaining work logs throughout the duration of the project cycle. 
+<br> I really enjoyed visiting venues for research and interviewing people for the project, however I also gained valuable experience by working remotely with a small team during lockdown. Only one team member had access to a VR headset after March so testing new features was a challenge! 
+<br> Overall I think this project was a success and I'd like the chance to work with VR again.
 
 ### Screenshots
 
