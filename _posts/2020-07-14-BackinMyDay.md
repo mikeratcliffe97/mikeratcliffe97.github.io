@@ -46,7 +46,7 @@ I am pleased with the level of detail of the research that went into this projec
 	../assets/img/BIMD3.png
 	../assets/img/BIMD4.png
 	../assets/img/BIMD5.png
-	../assets/img/BIMD5.png
+	../assets/img/BIMD6.png
 {% endcapture %}
 {% include gallery images=images caption="3D vs Real - some images of the experience and venues" cols=2 %}
 
