@@ -30,7 +30,7 @@ Part of the VR experience is a brief introduction for the user as they enter eac
 	../assets/img/BIMD3.png
 	../assets/img/BIMD4.png
 {% endcapture %}
-{% include gallery images=images caption="3D vs Real" cols=4 %}
+{% include gallery images=images caption="3D vs Real" cols=2 %}
 
 
 
