@@ -2,8 +2,7 @@
 title:              "Mike makes games"
 bio:                'I'm a 23 year old Games Technology graduate based in Bristol, hoping to enter the industry in design or production.'
 description:        "My Portfolio of work and project; 
-                      Contact me using the buttons below.
-                      <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">"
+                      Contact me using the buttons below: "
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/profilepic.jpg'
