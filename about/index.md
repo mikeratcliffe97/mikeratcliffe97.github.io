@@ -19,4 +19,7 @@ Games Tech Student at UWE. <br/>
 From London/Worcester. <br/>
 Enjoy Cider and Indie Rock. <br/>
 Filthy Junkrat main. <br/>
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+
       
