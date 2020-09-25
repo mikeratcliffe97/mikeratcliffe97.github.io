@@ -26,7 +26,7 @@ Filthy Junkrat main. <br/>
 	../assets/img/oreoplant.JPG
 	../assets/img/bandit.jpg
 {% endcapture %}
-{% include gallery images=images caption="Oreo and Bandit" cols=1 %}
+{% include gallery images=images caption="Oreo and Bandit" cols=3 %}
 
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
