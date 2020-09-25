@@ -20,6 +20,15 @@ From London/Worcester. <br/>
 Enjoy Cider and Indie Rock. <br/>
 Filthy Junkrat main. <br/>
 
+# Proud Cat Father
+{% capture images %}
+	../assets/img/oreocute.jpg  
+	../assets/img/oreoplant.JPG
+	../assets/img/bandit.jpg
+{% endcapture %}
+{% include gallery images=images caption="Oreo and Bandit" cols=1 %}
+
+
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 
       
