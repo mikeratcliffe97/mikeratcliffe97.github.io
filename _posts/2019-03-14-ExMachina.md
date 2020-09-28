@@ -11,12 +11,12 @@ tags: [dev, blog, ASGE, games]
 
 # Ex Machina Platformer
 
-## Based on the oscar award winning film, Ex Machina - I bring you... <br>
+## Based on the oscar award winning film, Ex Machina - we proudly present... <br>
 <figure>
     <img src="../assets/img/ExMach4.png">
 </figure>
 
-Playing as iterations of the Ai, Ava - you must escape Nathan's testing facility.
+In this 2D platform runner, playing as iterations of the Ai, Ava - you must escape Nathan's testing facility.
 <figure>
     <img src="../assets/img/ExMachina1.PNG">
 </figure>
@@ -26,9 +26,13 @@ Playing as iterations of the Ai, Ava - you must escape Nathan's testing facility
     - increasing level difficulty
     - sprite animations
     - powerups
-    - a huge animated pixel rendition of Oscar Isaac
+    - a huge (terrifying) animated pixel rendition of Oscar Isaac
  <figure>
     <img src="../assets/img/ExMachina2.PNG">
-    </figure>
+ </figure>
   
-Message me using my contact buttons on my homepage for more details or to play.
+
+### My Role
+
+I worked as lead developer - designing and creating the level editor as well as the gameplay mechanics. <br>The group I worked with worked really well as a team, and meant that as while as having a fun, polished game loop, we have well balanced levels and plenty of juice.
+You can read about my work on this project <a href="https://mikeratcliffe97.github.io/ExMachinaPostMortem/" target="_blank">here</a>
