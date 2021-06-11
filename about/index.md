@@ -15,18 +15,18 @@ comments: false
 </center>
 
 ## About Me
-Games Tech Student at UWE. <br/>
+Games Technology Graduate at UWE. 2:1 <br/>
 From London/Worcester. <br/>
+Based in Cheltenham <br/>
 Enjoy Cider and Indie Rock. <br/>
-Filthy Junkrat main. <br/>
+Junkrat main and Grand Strategy Game fanatic. <br/>
 
 # Proud Cat Father
 {% capture images %}
 	../assets/img/oreocute.jpg  
 	../assets/img/oreoplant.JPG
-	../assets/img/bandit.jpg
 {% endcapture %}
-{% include gallery images=images caption="Oreo and Bandit" cols=3 %}
+{% include gallery images=images caption="Oreo" cols=2 %}
 
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
