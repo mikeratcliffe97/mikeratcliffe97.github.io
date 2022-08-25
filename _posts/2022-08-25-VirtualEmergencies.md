@@ -2,8 +2,8 @@
 layout: post
 title: Virtual Emergencies
 date: 2022-08-07
-description: Developing a training simulator for student doctors using VR
-category: development
+excerpt: "Developing a training simulator for student doctors using VR"
+category: Project
 project: true
 published: true
 tags: [project management, VR, c#, Unity]
@@ -28,7 +28,7 @@ After some scoping meetings, we decided that the project should have the functio
 ## Prototype
 [br] I set to work to find assets and build a prototype, with medical apparatus, [b]very[b] basic UI and object interaction. 
 <br>This was my first progress video for the client - 
-<iframe width="560" height="315" src="www.youtube.com/watch?v=zD6GKQpe4AU" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zD6GKQpe4AU" frameborder="0"></iframe>
 
 Client was impressed with the prototype and we decided on a project plan for the rest of the development. 
 
