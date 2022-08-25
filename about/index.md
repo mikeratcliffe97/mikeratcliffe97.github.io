@@ -8,7 +8,7 @@ comments: false
     
 <center>
 <figure>
-        <img src="../assets/img/profilepic.jpg" class="img-circle animated rotateIn">
+        <img src="../assets/img/profilepic1.jpg" class="img-circle animated rotateIn">
 	
 </figure>
 

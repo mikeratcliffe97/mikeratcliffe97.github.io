@@ -26,7 +26,7 @@ After some scoping meetings, we decided that the project should have the functio
 
 
 ## Prototype
-<br> I set to work to find assets and build a prototype, with medical apparatus, <b>very<b></b> basic UI and object interaction. 
+I set to work to find assets and build a prototype, with medical apparatus, <b>very</b> basic UI and object interaction. 
 <br>This was my first progress video for the client - 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zD6GKQpe4AU" frameborder="0"></iframe>
 

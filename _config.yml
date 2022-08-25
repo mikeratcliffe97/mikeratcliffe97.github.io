@@ -5,7 +5,7 @@ description:        "My Portfolio of work and projects;
                       Contact me using the buttons below: "
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/profilepic.jpg'
+logo:               'assets/img/profilepic1.jpg'
 background:         'assets/img/backgroundpng.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
