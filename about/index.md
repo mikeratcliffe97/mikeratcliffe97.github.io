@@ -15,10 +15,13 @@ comments: false
 </center>
 
 ## About Me
-Games Technology Graduate at UWE. 2:1 <br/>
-From London/Worcester. <br/>
-Based in Cheltenham <br/>
+
+Games Technology Graduate - UWE. 2:1 <br/>
+From London/Worcestershire. <br/>
+Based in Cheltenham, UK <br/>
+
 Enjoy Cider and Indie Rock. <br/>
+
 Junkrat main and Grand Strategy Game fanatic. <br/>
 
 # Proud Cat Father
@@ -28,7 +31,5 @@ Junkrat main and Grand Strategy Game fanatic. <br/>
 {% endcapture %}
 {% include gallery images=images caption="Oreo" cols=2 %}
 
-
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 
       
