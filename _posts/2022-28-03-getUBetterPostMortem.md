@@ -5,7 +5,7 @@ date: 2023-01-19
 description: 'Ask Mike, he'll know'
 category: Personal
 published: true
-tags: [blog]
+tags: [blog, project management, app]
 ---
 
 ### getUBetter Summary
