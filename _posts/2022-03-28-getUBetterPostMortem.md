@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Time at getUBetter
-date: 2022-28-03
+date: 2022-03-28
 description: Ask Mike, he'll know
 category: Personal
 published: true
