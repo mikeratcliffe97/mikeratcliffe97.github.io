@@ -5,7 +5,7 @@ date: 2019-03-31
 description: Beta feedback and progress
 category: development
 published: true
-tags: [dev, blog, DX, GEP]
+tags: [dev, blog, DX, GEP, degree]
 ---
 
 # Beta Feedback

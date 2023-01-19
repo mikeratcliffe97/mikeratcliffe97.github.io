@@ -6,7 +6,7 @@ excerpt: "Production and QA for a cohort game made by over 30 students"
 category: Project   
 project: true
 published: true
-tags: [c#, unity, project management]
+tags: [c#, unity, project management, degree]
 ---
 
 # Don't Walk By

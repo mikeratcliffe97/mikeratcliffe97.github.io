@@ -5,7 +5,7 @@ date: 2019-03-14
 description:  Post mortem for my 2nd year LLP assignment
 category: development
 published: true
-tags: [dev, blog]
+tags: [dev, blog, degree]
 ---
 
 # Ex Machina

@@ -5,7 +5,7 @@ date: 2019-04-09
 description:  Mission Mars Post Mortem
 category: development
 published: true
-tags: [dev, blog]
+tags: [dev, blog, degree]
 ---
 
 # <b> Mission Mars </b>

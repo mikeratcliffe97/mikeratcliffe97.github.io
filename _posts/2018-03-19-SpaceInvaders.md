@@ -5,7 +5,7 @@ date: 2018-03-19
 description: My Space Invaders game. 
 category: Beginner
 published: true
-tags: [retro, games, ESD, ASGE]
+tags: [retro, games, ESD, ASGE, degree]
 ---
 
 I've made a <b>Space Invaders</b> game in the AwesomeSauceGameEngine, written in C++.

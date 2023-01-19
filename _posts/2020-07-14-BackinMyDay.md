@@ -6,7 +6,7 @@ excerpt: "Production and Design for a client VR experience"
 category: Project   
 project: true
 published: true
-tags: [unity, VR, project management, design]
+tags: [unity, VR, project management, design, degree]
 ---
 # Back in My Day
 

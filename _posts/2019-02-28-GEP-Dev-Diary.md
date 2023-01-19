@@ -5,7 +5,7 @@ date: 2019-02-28
 description: First development blog for Mario Kart
 category: development
 published: true
-tags: [dev, blog, DX, GEP]
+tags: [dev, blog, DX, GEP, degree]
 ---
 
 This is the first entry in my dev diary for Mario Kart.

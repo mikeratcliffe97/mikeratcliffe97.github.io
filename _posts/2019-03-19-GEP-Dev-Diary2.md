@@ -5,7 +5,7 @@ date: 2019-03-19
 description: Pre beta build
 category: development
 published: true
-tags: [dev, blog, DX, GEP]
+tags: [dev, blog, DX, GEP, degree]
 ---
 
 # Pre-beta

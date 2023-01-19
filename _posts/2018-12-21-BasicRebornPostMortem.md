@@ -5,7 +5,7 @@ date: 2018-12-21
 description: C++ Port of a BASIC text adventure game
 category: Post Mortem
 published: true
-tags: [retro, c++, text, adventure, ASGE]
+tags: [retro, c++, text, adventure, ASGE, degree]
 ---
 # Basic Reborn
 <figure>

@@ -6,7 +6,7 @@ excerpt: " The best space based text adventure game! "
 category: game
 project: true
 published: true
-tags: [retro, c++, text, games, adventure, ASGE]
+tags: [retro, c++, text, games, adventure, ASGE, degree]
 ---
 
 # Basic Reborn
