@@ -2,7 +2,7 @@
 layout: post
 title: My Time at getUBetter
 date: 2022-28-03
-description: 'Ask Mike, he'll know'
+description: Ask Mike, he'll know
 category: Personal
 published: true
 tags: [blog, project management, app]
