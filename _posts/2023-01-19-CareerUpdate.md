@@ -2,7 +2,7 @@
 layout: post
 title: Career Update (LFW)
 date: 2023-01-19
-description: Portfolio Update
+description: Back from my trip
 category: Personal
 published: true
 tags: [blog]
