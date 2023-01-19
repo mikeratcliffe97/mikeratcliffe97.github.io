@@ -32,4 +32,14 @@ I set to work to find assets and build a prototype, with medical apparatus, <b>v
 
 Client was impressed with the prototype and we decided on a project plan for the rest of the development. 
 
-## Update Soon 
+## September 22 Update
+After working with another developer, we added most of the aspects of the project plan including:
+* applying objects to an animated patient model
+* interactions with NPCs
+* real-time visual and audio feedback
+* realistic sounds 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/99EmaD-wZds" frameborder="0"></iframe>
+
+We included two modes for the simulation - an educational mode where the user is given prompts such as where to place the ECG cables on the patient and what condition the patient is suffering from, and an assessed mode where the user is given know prompts and must diagnose the patient and choose the correct procedure to treat them.
+
+After this update, the only work left to do was testing and fine tuning based on client feedback, to ensure that the simulation was highly accurate, to allow the best educational experience for users.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back in My Day
+title: Back in My Day - a VR exploration of underground music in Bristol
 date: 2020-07-14
 excerpt: "Production and Design for a client VR experience"
 category: Project   
