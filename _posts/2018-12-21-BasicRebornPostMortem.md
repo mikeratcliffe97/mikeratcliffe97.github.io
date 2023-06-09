@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game 1 Post Mortem
+title: Basic Reborn Post Mortem
 date: 2018-12-21
 description: C++ Port of a BASIC text adventure game
 category: Post Mortem
