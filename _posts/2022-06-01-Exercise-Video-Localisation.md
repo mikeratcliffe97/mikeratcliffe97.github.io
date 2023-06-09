@@ -2,7 +2,7 @@
 layout: post
 title: Localisation and QA for getUBetter
 date: 2022-06-01
-description: Transcribing, translating and proof-reading subtitles for MSK exercise and advice videos
+excerpt: "Transcribing, translating and proof-reading subtitles for MSK exercise and advice videos"
 category: Project
 project: true
 published: true
