@@ -5,7 +5,7 @@ date: 2022-03-28
 description: Ask Mike, he'll know
 category: Personal
 published: true
-tags: [blog, project management, app]
+tags: [blog, project management, app, QA]
 ---
 
 ### getUBetter Summary

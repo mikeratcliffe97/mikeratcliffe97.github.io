@@ -1,11 +1,11 @@
 ---
-layout: project
+layout: post
 title: Localisation and QA for getUBetter
 date: 2022-06-01
 description: Transcribing, translating and proof-reading subtitles for MSK exercise and advice videos
 category: Project
 published: true
-tags: [Project Management, blog, app]
+tags: [project management, blog, app, localisation, QA]
 ---
  
 ## Localisation and QA for getUBetter
