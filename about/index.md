@@ -19,15 +19,15 @@ comments: false
 
 Games Technology Graduate - UWE. 2:1 <br/>
 From London/Worcestershire. <br/>
-Based in Cheltenham, UK <br/>
+Based in the Bay, CA <br/>
 
-Enjoy Cider and Indie Rock. <br/>
+Enjoy IPAs, rugby, bouldering and alternative rock. <br/>
 
 Junkrat main and Grand Strategy Game fanatic. <br/>
 
 ### Previous roles:-
 2021 - 2022 - Technical and Project Support Engineer for getUBetter - digital physiotherapy rehabilition app. <br/>
-2021 - ongoing - Developer and Project Manager on Virtual Emergencies - VR based training simulator for student doctors in the NHS. <br/>
+2021 - 2023 - Developer and Project Manager on Virtual Emergencies - VR based training simulator for student doctors in the NHS. <br/>
 
 # Proud Cat Father
 {% capture images %}
