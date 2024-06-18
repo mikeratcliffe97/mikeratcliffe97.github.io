@@ -8,7 +8,7 @@ comments: false
     
 <center>
 <figure>
-        <img src="../assets/img/profilepic1.jpg" class="img-circle animated rotateIn">
+        <img src="../assets/img/fogflag.jpg" >
 	
 </figure>
 
@@ -17,11 +17,11 @@ comments: false
 ## About Me
 
 
-Games Technology Graduate - UWE. 2:1 <br/>
+Games Technology Graduate - UWE BSc 2:1 <br/>
 From London/Worcestershire. <br/>
-Based in the Bay, CA <br/>
+Based in the Bay, CA with  <br/>
 
-Enjoy IPAs, rugby, bouldering and alternative rock. <br/>
+Enjoy IPAs, rugby, bouldering, board games and alternative rock. <br/>
 
 Junkrat main and Grand Strategy Game fanatic. <br/>
 
@@ -29,12 +29,13 @@ Junkrat main and Grand Strategy Game fanatic. <br/>
 2021 - 2022 - Technical and Project Support Engineer for getUBetter - digital physiotherapy rehabilition app. <br/>
 2021 - 2023 - Developer and Project Manager on Virtual Emergencies - VR based training simulator for student doctors in the NHS. <br/>
 
-# Proud Cat Father
+# Proud Pet Father
 {% capture images %}
 	../assets/img/oreocute.jpg  
 	../assets/img/oreoplant.JPG
+	../assets/img/oreo.jpg
 {% endcapture %}
-{% include gallery images=images caption="Oreo" cols=1 %}
+{% include gallery images=images caption="My UK cat and my US dog" cols=3 %}
 
 
       
