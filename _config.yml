@@ -1,5 +1,5 @@
 # Site
-title:              "Mike makes games"
+title:              "Mike makes things"
 bio:                "Welcome to my website. <br>I enjoy the people-facing side of programming. <br>I work hard to take great ideas and transform them into digital solutions. <br>Available now for new work"
 description:        "My Portfolio of work and projects; 
                       Contact me using the buttons below: "
@@ -39,7 +39,7 @@ disqus_shortname:
   #ad-slot:
 #bing-verify:
 email:             michael.ratcliffe97@gmail.com   
-twitter:            mikeratgames
+#twitter:            mikeratgames
 #facebook:           username
 github-url:         mikeratcliffe97
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
